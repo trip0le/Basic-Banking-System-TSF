@@ -1,4 +1,4 @@
-### Basic Banking System
+### Basic Banking System - Task 1 @The Sparks Foundation - Graduate Rotational Internship Program
 
 A working prototype of a Basic Banking App using MERN with pre-decided users in MongoDB where transactions in between them are allowed and recorded.
 
