@@ -1,0 +1,21 @@
+.success-portal{
+    position: absolute;
+    top:15rem;
+    margin-left: 35%;
+}
+.success{
+    height: 48px;
+    width: 48px;
+    margin-left:40%;
+}
+
+.success-card{
+    border-width: 2px;
+}
+
+.success-title{
+    margin-left:17% !important;
+}
+.success-buttons{
+    margin-left: 2.5rem !important;
+}
